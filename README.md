@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praisemore ronald moyo
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning .. ruby on rails.
+- 🌱 I’m currently learning .. python , Django, mySQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...moyoronnie1@gmail.com
  
