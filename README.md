@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @praisemore Ronald Moyo<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning .. Python, Django, and MySQL.<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...moyoronnie1@gmail.com<br> 
+- 👋 Hi, I’m @praisemore Ronald Moyo<br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning .. Python, Django, and MySQL.<br>- 💞️ I’m looking to collaborate on On going projects<br>- 📫 How to reach me ...moyoronnie1@gmail.com<br> 
 
 
 ## 🌐 Socials:
